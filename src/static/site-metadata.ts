@@ -11,19 +11,19 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Map',
-  siteUrl: 'https://ben29.xyz',
-  logo: 'https://avatars3.githubusercontent.com/u/6956444?s=460&u=97e1062227c4088db3c987146455245c6fa78441',
+  siteTitle: '江志鑫——运动记录&活动热图',
+  siteUrl: 'https://www.strava.com/athletes/111427482',
+  logo: 'https://dgalywyr863hv.cloudfront.net/pictures/athletes/111427482/26085264/3/large.jpg',
   description: 'Personal site and blog',
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://ben29.xyz',
+      name: 'Strava',
+      url: 'https://www.strava.com/athletes/111427482',
     },
     {
-      name: 'About',
-      url: 'https://github.com/ben-29/workouts_page/blob/master/README-CN.md',
+      name: 'ICU',
+      url: 'https://intervals.icu/athlete/i94974/activities',
     },
   ],
 };
