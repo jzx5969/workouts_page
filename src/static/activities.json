@@ -2113,5 +2113,20 @@
 "average_speed": 2.330329114405849,
 "source": "Garmin Connect",
 "streak": 4
+},
+{
+"run_id": 1716091599000,
+"name": "City of Maputo \u516c\u8def\u9a91\u884c",
+"distance": 81195.80370145476,
+"moving_time": "4:02:48",
+"type": "Ride",
+"start_date": "2024-05-19 04:06:39",
+"start_date_local": "2024-05-19 06:06:39",
+"location_country": "Av. do Zimbabwe, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "`yl}Ccz}eEpF{L|BCtDgJ{AsAEyAmGoD{BkCgAuD_@}GeEgFop@ct@sVgZmJmJ_OuK{SoJ{F{Da_@k_@kZiVgI_I}`@id@{HaHuPyK}LmPmGiGkHmFoIoD}OsA_MwCsHqCmHwAmLc@wVfAsIu@oIaCw_@cQ}K{C}Fm@mW{@{S{BiF@eG{AuRuCcRsGgMyJqPaRaEgCsEeBaKiAuh@w@}GDgDt@sBw@oEa@gcE}F_k@J}o@uBasA_BgBVsA]eV[yFd@kGy@kTQsO~AiGnB}EfCuJdIiRlWoD|ByFnA_EJiE_@i]sJ}I}@wPLmB\\uAUg[^iN_B}B|@KlAb@v@fBMTsBiCuQgBeE}BqBcC}@oL_@o@][oW{FF_F|AcBsAkBk@sIKYcHcDyF{AmFR{AjKsNBmHKeH}A}JyBq[gTcdBbE_y@vAkGpPoMdY_d@rAyEnTp@jUGvScAzUErMi@bLvAzDCfBa@dFsChGaHh@kBl@sH_@{IhD_D~D_BlJy@|JNlMbAiNcA_JEiJx@cE`BcDpC\\jLsAxI}GpHoH~CmDJqLwAeg@r@uHt@m]NeRg@sBdBoZlf@}PrMiArC_F~}@nTfdB~AjUtBnMDnTcKjN[`AFbAdAlDjDfGVjH|H?fCn@vAnAxEwAxMAPtWlHXfDvAhDbEtD`MtEdEnF~@|\\q@~XNzCZj_@`KbJTlG}A`DsBbTiY`FgEfHyDfQwEz\\N|Ci@xH|@dYDzAXd_BrBvh@fB~SQpBYdBV|mE`G`FMnCs@jB|@lE\\~k@x@tJ|@|E~ApDrBvQ`SxItGzJ`FjKbDrQfCjGDjF`BvO`Bf`@hBfMzCx`@tQnH|BtJv@dWgA`Ov@xOrD|A~@fI|BtPpAnL~FdNhM|LfPhMlH`NpMf^pa@rFrEc@\\_EyDk_@sb@sNwLMmBbUfUdYb\\p`@h\\zP~OVv@|OfPrEbDpS`JzR`N|MrOlKjMlCtDLz@uTzY{A|RFtCl@xBfA~@jGjAh\\vDzGtAtNnE\\l@c@dBZNjXpIl@lAChAmJhS",
+"average_heartrate": 139.0,
+"average_speed": 5.573572467150931,
+"source": "Garmin Connect",
+"streak": 5
 }
 ]
