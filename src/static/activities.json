@@ -2878,5 +2878,20 @@
 "average_speed": 2.4278592958237613,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1722144043000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 8968.95011183247,
+"moving_time": "1:08:26",
+"type": "Run",
+"start_date": "2024-07-28 05:20:43",
+"start_date_local": "2024-07-28 07:20:43",
+"location_country": "Av. da Marginal, Polana Cani\u00e7o \"B\", Distrito Municipal de KaMaxakeni, \u99ac\u666e\u6258, 0103-07, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "nlj}CgfbfEsK}LiKkHuJeGyNcG{G{EsOaQcA_@_NeNca@u\\}Zc^~TvWjMjMxYjUnb@dc@|IdFdLrExRjN~@R^hAxHzHrPxSlm@pp@nAt@vB`D",
+"average_heartrate": 153.0,
+"average_speed": 2.184352194796023,
+"source": "Garmin Connect",
+"streak": 3
 }
 ]
