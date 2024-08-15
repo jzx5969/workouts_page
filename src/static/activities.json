@@ -3028,5 +3028,50 @@
 "average_speed": 2.493396700836941,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1723694625000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2414.652188814469,
+"moving_time": "0:17:17",
+"type": "Run",
+"start_date": "2024-08-15 04:03:45",
+"start_date_local": "2024-08-15 06:03:45",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "lxl}Cax}eElB`@pk@h^vB}@xCmG`A?`DbBfAmA{@[xBQLaAc@q@aFCc@|@Rt@vE`@dAo@W}AoFGe@hAj@|@zEoC]GlIQf@Z",
+"average_heartrate": 145.0,
+"average_speed": 2.328497771277212,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1723700903000,
+"name": "City of Maputo \u6b65\u884c",
+"distance": 174.05528948008308,
+"moving_time": "0:01:52",
+"type": "Hike",
+"start_date": "2024-08-15 05:48:23",
+"start_date_local": "2024-08-15 07:48:23",
+"location_country": "562, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "djp}Ck}|eEcHyB",
+"average_heartrate": 108.0,
+"average_speed": 1.5540650846435988,
+"source": "Garmin Connect",
+"streak": 2
+},
+{
+"run_id": 1723701032000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 1764.7027761676918,
+"moving_time": "0:10:05",
+"type": "Run",
+"start_date": "2024-08-15 05:50:32",
+"start_date_local": "2024-08-15 07:50:32",
+"location_country": "Embaixada de Portugal, 720 / 730, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "~_p}Csa}eEkFg@mDmBaHwBwt@cd@kFcBcBrB",
+"average_heartrate": 139.0,
+"average_speed": 2.91686409283916,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
