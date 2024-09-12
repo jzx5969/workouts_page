@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-09-12T05:15:37.000Z</time>
+  </metadata>
+  <trk>
+    <name>City of Maputo 检测到事故。</name>
+    <type>incident_detected</type>
+    <trkseg>
+      <trkpt lat="-25.97579620778560638427734375" lon="32.5935516692698001861572265625">
+        <ele>64.40000152587890625</ele>
+        <time>2024-09-12T05:15:37.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>116</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.9757821261882781982421875" lon="32.59358226321637630462646484375">
+        <ele>64.40000152587890625</ele>
+        <time>2024-09-12T05:15:38.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>116</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.97568917088210582733154296875" lon="32.59367329068481922149658203125">
+        <ele>64.1999969482421875</ele>
+        <time>2024-09-12T05:15:43.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>117</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.97555958665907382965087890625" lon="32.59374017827212810516357421875">
+        <ele>64.1999969482421875</ele>
+        <time>2024-09-12T05:15:48.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>120</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="-25.9755522944033145904541015625" lon="32.59374286048114299774169921875">
+        <ele>64.40000152587890625</ele>
+        <time>2024-09-12T05:15:50.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>122</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

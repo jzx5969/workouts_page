@@ -3238,5 +3238,35 @@
 "average_speed": 2.420021976801372,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1726114159000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2806.7259073398827,
+"moving_time": "0:27:45",
+"type": "Run",
+"start_date": "2024-09-12 04:09:19",
+"start_date_local": "2024-09-12 06:09:19",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "zyl}C{x}eE^b@vB_Ez@YzGuNtAwBzAi@PmAbWrBt^dQl`@jYhJbCw@jEoCd@q@w@",
+"average_heartrate": 126.0,
+"average_speed": 1.6857212656695992,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1726118166000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2486.538532321988,
+"moving_time": "0:15:02",
+"type": "Run",
+"start_date": "2024-09-12 05:16:06",
+"start_date_local": "2024-09-12 07:16:06",
+"location_country": "562, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "|hp}Ci~|eEgFuAkFa@kFkBmZoReE_Ay^iUkAvBy@Bo@l@oKbVo@@eD{B",
+"average_heartrate": 151.0,
+"average_speed": 2.756694603461184,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
