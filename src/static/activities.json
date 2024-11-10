@@ -3688,5 +3688,35 @@
 "average_speed": 2.5849741763587177,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1731210775000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 3114.84640149658,
+"moving_time": "0:36:12",
+"type": "Run",
+"start_date": "2024-11-10 03:52:55",
+"start_date_local": "2024-11-10 05:52:55",
+"location_country": "161, Rua Jo\u00e3o Carlos Raposo Beir\u00e3o, Polana Cimento B, Polana Cimento \"B\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-10, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "~~o}Csh{eEjD|CfLeH~Al@f@vBqIxDsBfDaAf@xBcCd@LBtAZK`@cA^AVcBfDmAz@~ANvAjAoA}@kEl@Ob@f@h@]d@f@`AH`AMxByBrEq@`BsAk@w@De@f@Nd@}@d@cFdDoNkAgBaAe@s@}DyBcDmSkF",
+"average_heartrate": 135.0,
+"average_speed": 1.4340913450720902,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1731218027000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 3031.030247436214,
+"moving_time": "0:31:15",
+"type": "Run",
+"start_date": "2024-11-10 05:53:47",
+"start_date_local": "2024-11-10 07:53:47",
+"location_country": "Rua de Sidano, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "rrp}Cc||eEv@lA~RzEdDoApAvD~D|AxBfC{@v@Z|Ca@lFaCpD{Dr@Dl@aANb@hAUXwDdBgAGmCfCgCBo@e@m@^Ue@}@X~@~CuDjIjIzGaL`VIzA_CrE",
+"average_heartrate": 153.0,
+"average_speed": 1.616549465299314,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
