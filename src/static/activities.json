@@ -3748,5 +3748,35 @@
 "average_speed": 2.126314420652744,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1731730708000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 8521.574244136847,
+"moving_time": "1:28:00",
+"type": "Run",
+"start_date": "2024-11-16 04:18:28",
+"start_date_local": "2024-11-16 06:18:28",
+"location_country": "Rua 1.307, Sommerschield, Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-11, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "dzl}Cww}eEnBo@nM{X~AQy@{@gDq@Gf@pEvAVoAf@CdTvBtAe@bSnI|Y`RwCkAw@T|CbDYb@m@Au@yAxAhFd^`JG`CaBhCpAk@Ay@~@sCr[fHRT_Di@nAdGrGjD~AbC^rD`@i@J\\Hc@a@g@V{@o@ORuBFx@cAyBNcDe@SGk@j@_@[g@x@DN}@_HcG{EoBgEFoB[_BTzBUtEv@fAQ|ExAdCpBl@g@_@_AoE{B}Ce@s@s@iV_BcIwAyM_GsZiRiOmH",
+"average_heartrate": 144.0,
+"average_speed": 1.613934515935009,
+"source": "Garmin Connect",
+"streak": 1
+},
+{
+"run_id": 1731815440000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 3692.0617254467766,
+"moving_time": "1:07:02",
+"type": "Run",
+"start_date": "2024-11-17 03:50:40",
+"start_date_local": "2024-11-17 05:50:40",
+"location_country": "Av. dos M\u00e1rtires de Mueda, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "nup}Cmh{eEDVwC|@_@n@uCnAoB~CmBrAAjA|@h@]lAHjBfJ_MtAcA~@?{@kBoBbAa@K]VMvAc@BGn@i@XYKEsAh@gA|H_EzAMXf@h@a@f@n@v@DnAMrBuBhBMrAu@HPnA}@\\]c@uAz@AGq@~Dq@`CmDf@wE_@iDh@}@QO~@Vv@nEr@Qc@u@V{@q@OXuA_AkALwDi@i@f@{@Yg@t@FNaAMbAu@ID{BeAkAaCoAEg@uFsA",
+"average_heartrate": 132.0,
+"average_speed": 0.917966614979308,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
