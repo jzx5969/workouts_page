@@ -3778,5 +3778,20 @@
 "average_speed": 0.917966614979308,
 "source": "Garmin Connect",
 "streak": 2
+},
+{
+"run_id": 1731993921000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2401.0601967995894,
+"moving_time": "0:16:40",
+"type": "Run",
+"start_date": "2024-11-19 05:25:21",
+"start_date_local": "2024-11-19 07:25:21",
+"location_country": "Barclays, 511, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "pkp}C{{|eEq@iAsLaDaCDkIuDaFkDmNwGkd@{Xw@rA{Bx@qLpV",
+"average_heartrate": 136.0,
+"average_speed": 2.4010601967995893,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
