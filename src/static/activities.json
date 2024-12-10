@@ -3943,5 +3943,20 @@
 "average_speed": 2.0773969662538256,
 "source": "Garmin Connect",
 "streak": 3
+},
+{
+"run_id": 1733808162000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2079.630538641024,
+"moving_time": "0:14:14",
+"type": "Run",
+"start_date": "2024-12-10 05:22:42",
+"start_date_local": "2024-12-10 07:22:42",
+"location_country": "Embaixada de Portugal, 720 / 730, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "j}o}Cub}eEgDFcZcQgBRmBtA{UuN}@TkIpQw@KgNkIsAnB",
+"average_heartrate": 158.0,
+"average_speed": 2.435164565153424,
+"source": "Garmin Connect",
+"streak": 1
 }
 ]
