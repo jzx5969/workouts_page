@@ -3958,5 +3958,20 @@
 "average_speed": 2.435164565153424,
 "source": "Garmin Connect",
 "streak": 1
+},
+{
+"run_id": 1733894474000,
+"name": "City of Maputo \u8dd1\u6b65",
+"distance": 2204.801463785748,
+"moving_time": "0:15:44",
+"type": "Run",
+"start_date": "2024-12-11 05:21:14",
+"start_date_local": "2024-12-11 07:21:14",
+"location_country": "Banco \u00danico, 585, Av. Julius Nyerere, Polana Cimento A, Polana Cimento \"A\", Distrito Municipal de KaMpfumu, \u99ac\u666e\u6258, Zona Sul, 0101-09, \u83ab\u6851\u6bd4\u514b / \u83ab\u4e09\u6bd4\u514b",
+"summary_polyline": "tfp}Cu~|eEoF_CuGScCoBm@CoKeGoAOeEiCgARuAnAaWgOcCfEqDEu@|@iCkAsCxFgGyCqAxB",
+"average_heartrate": 151.0,
+"average_speed": 2.335594770959479,
+"source": "Garmin Connect",
+"streak": 2
 }
 ]
